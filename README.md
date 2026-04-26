@@ -75,7 +75,7 @@ pizza-chat/
 - Personalize o visual em `frontend/src/app/`
 
 ---
-
+aaaaa
 
 ## 📄 Licença
 MIT. Sinta-se livre para usar, modificar e compartilhar.

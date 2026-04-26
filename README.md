@@ -76,10 +76,6 @@ pizza-chat/
 
 ---
 
-## 🤝 Contribuição
-Pull requests são super bem-vindos! Sinta-se à vontade para propor melhorias, abrir issues ou sugerir novas features.
-
----
 
 ## 📄 Licença
 MIT. Sinta-se livre para usar, modificar e compartilhar.
